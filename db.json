@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "hello",
+      "body": "shlkjc",
+      "id": 1
+    },
+    {
+      "title": "title",
+      "body": "body",
+      "id": 2
+    },
+    {
+      "title": "title3",
+      "body": "diUIEW",
+      "id": 3
+    }
+  ]
+}
